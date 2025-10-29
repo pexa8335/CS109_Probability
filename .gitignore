@@ -9,3 +9,5 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+content/Custom/copilot-custom-prompts
+content/Custom/Pomodoro Daily Template.md
