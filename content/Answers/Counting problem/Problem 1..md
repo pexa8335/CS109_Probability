@@ -5,7 +5,7 @@ tags:
 Date: 2025-10-31
 Relevant:
   - "[[Lecture 1 - Counting.]]"
-  - "[[List of problems/Counting problem.]]"
+  - "[[1. Counting problem.]]"
 ---
 # Solution.
 
