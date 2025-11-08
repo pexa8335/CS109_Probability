@@ -70,6 +70,6 @@ $$
     → The number of unique outcomes can come from A _or_ B.  
 - Counting with Steps (Product Rule)   
     → The number of unique outcomes must come from Step A _then_ Step B.    
-## 3. Practicing.
+## 4. Practicing.
 
 [[1. Counting problem.]]
